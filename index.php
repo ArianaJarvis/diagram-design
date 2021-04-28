@@ -481,12 +481,6 @@
                     subtitle varchar
                     description text
                 }
-
-                Errors {
-                    id int
-                    code varchar
-                    message varchar
-                }
             
     </div>
     <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js">
